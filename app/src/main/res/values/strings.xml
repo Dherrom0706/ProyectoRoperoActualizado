@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shop Murgi</string>
+    <string name="tamanio_S">S</string>
+    <string name="tamanio_m">M</string>
+    <string name="tamanio_l">L</string>
+    <string name="elegido">You have chosen the garment : </string>
+    <string name="talla">Size: </string>
+    <string name="cantidad">Quantity: </string>
+    <string name="porFavor">1</string>
+    <string name="precio">Price: </string>
+    <string name="comprar">Purchase</string>
+    <string name="calcetin">Sock</string>
+    <string name="calcetin1">Sock1</string>
+    <string name="calcetin2">Sock2</string>
+    <string name="calcetin3">Sock3</string>
+    <string name="calcetin4">Sock4</string>
+    <string name="camiseta">Shirt</string>
+    <string name="camiseta2">Shirt2</string>
+    <string name="camiseta3">Shirt3</string>
+    <string name="camiseta4">Shirt4</string>
+    <string name="gorra">Cap</string>
+    <string name="gorra1">Cap1</string>
+    <string name="gorra2">Cap2</string>
+    <string name="leggin">Leggin</string>
+    <string name="leggin1">Leggin1</string>
+    <string name="pantalon">Trousers</string>
+    <string name="pantalon1">Trousers1</string>
+    <string name="pantalon2">Trousers2</string>
+    <string name="sudadera">Hoodie</string>
+    <string name="sudadera1">Hoodie1</string>
+    <string name="sudadera2">Hoodie2</string>
+    <string name="sudadera3">Hoodie3</string>
+    <string name="vestido">Dress</string>
+    <string name="vestido1">Dress1</string>
+    <string name="vestido2">Dress2</string>
+    <string name="Talla">Talla</string>
+</resources>
