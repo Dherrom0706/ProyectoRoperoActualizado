@@ -23,9 +23,6 @@ class MainActivity : AppCompatActivity() {
             binding.listViObjetosCompra.adapter = adapter
         }
 
-
-
-
         /*val tallas = listOf(
             resources.getString(R.string.tamanio_S),
             resources.getString(R.string.tamanio_m),
